@@ -10,10 +10,12 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/icon": "^1.0.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-vue-next": "^0.400.0",
     "nuxt": "^3.12.2",
+    "nuxt-highcharts": "^3.1.1",
     "radix-vue": "^1.8.5",
     "shadcn-nuxt": "^0.10.4",
     "tailwind-merge": "^2.3.0",
